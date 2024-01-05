@@ -3,4 +3,4 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-Hello Students !!! Very !!! welcome to Jenkins Dashboard
+Hello Students !!!  welcome to Jenkins Dashboard
